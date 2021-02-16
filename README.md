@@ -60,13 +60,13 @@ But, we can also notice an interesting number of people who quit between the 0 a
 
 (*age taken as of year 2016, that's when the data was collected)
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Generations.png" width="800" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Generations.png" width="900" height="600">
 
 We can see that most employees are in Sales, Research and lab technician. We also notice that millenials are paid less than Gen X and Baby Boomers. This happens due to lack of professional experience. 
 
 * Relation between Attrition and Gender
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Gender.png" width="800" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Gender.png" width="900" height="600">
 
 After the analysis, we didn't see diferences between gender if we talk about income, job posittions or attrition. Instead of that, we see more men in positions like Laboratory, Sales, Human Resources and Research.
 
