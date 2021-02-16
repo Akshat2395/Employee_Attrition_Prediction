@@ -34,4 +34,4 @@ The datset includes columns of Attrition, Age, Department, Education, Environmen
 
 * Relation between Attriton, and Job position and eduation.
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Gender_of_Respondents.png" alt="Gender of Respondents" width="700" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Job-Education.png" width="700" height="600">
