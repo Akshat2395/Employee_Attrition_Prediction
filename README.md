@@ -31,7 +31,7 @@ The datset includes columns of Attrition, Age, Department, Education, Environmen
 
 * Relation between Attriton, and Job position and eduation.
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Job-Education.png" width="700" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Job-Education.png" width="800" height="600">
 
 In our dataset we have more people related with the Research and Development Area, with mid-high levels of educations, and they are from fields related with Life Sciences and Medicine.
 
@@ -39,7 +39,7 @@ But when we analyze the proportion of attrition in each category, we discover th
 
 * Relation between Attrition and other dependent features
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Temporal.png" width="700" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Temporal.png" width="800" height="600">
 
 W can see that we have 100% attrition of people who have worked more than 40 years. Maybe beacuse at that time, people start to retire and leave.
 
@@ -60,13 +60,13 @@ But, we can also notice an interesting number of people who quit between the 0 a
 
 (*age taken as of year 2016, that's when the data was collected)
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Generations.png" width="700" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Generations.png" width="800" height="600">
 
 We can see that most employees are in Sales, Research and lab technician. We also notice that millenials are paid less than Gen X and Baby Boomers. This happens due to lack of professional experience. 
 
 * Relation between Attrition and Gender
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Gender.png" width="700" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Gender.png" width="800" height="600">
 
 After the analysis, we didn't see diferences between gender if we talk about income, job posittions or attrition. Instead of that, we see more men in positions like Laboratory, Sales, Human Resources and Research.
 
@@ -74,7 +74,7 @@ Something to take note, is that the proportion of women is less than men, in the
 
 * Relation between Attrition and Job Features
 
-<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Job.png" width="700" height="600">
+<img src="https://github.com/Akshat2395/Employee_Attrition_Prediction/blob/main/images/Attrition-Job.png" width="800" height="600">
 
 We can see that attrition happend if the employee is not satisfied with his annual salary and that too at the early stages of their career. Another reason is that the employee is working overtimeas they tend to get worked out and ultimately get tired of working late hours. Environment satisfaction also matters a lot as this leads to dissatisfaction from their job. 
 
