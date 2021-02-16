@@ -107,15 +107,17 @@ The model ultimately achieved an accuracy of **93.5%**.
 
 Additionally, important features were calculated from the ML model we implemented and the top 5 features were:
 
-1.Stock Option Level
+  1.Stock Option Level
 
-2. Monthly Income
+  2. Monthly Income
 
-3. Job Satisfaction
+  3. Job Satisfaction
 
-4. Years with Current Manager
+  4. Years with Current Manager
 
-5. Education Field 
+  5. Education Field 
+
+
 
 
 
